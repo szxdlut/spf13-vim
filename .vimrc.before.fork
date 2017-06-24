@@ -10,7 +10,7 @@ let g:spf13_noninvasive_completion = 1
 let g:spf13_no_conceal = 1
 
 if !exists("g:spf13_bundle_groups")
-    let g:spf13_bundle_groups=['neocomplcache', 'programming', 'php', 'ruby', 'python', 'javascript', 'html', 'misc', 'scala']
+    let g:spf13_bundle_groups=['general', 'writing', 'neocomplete', 'programming', 'php', 'ruby', 'python', 'javascript', 'html', 'misc', 'scala', 'youcompleteme']
 endif
 
 let g:spf13_override_snippets = 1
