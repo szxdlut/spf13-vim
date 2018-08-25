@@ -24,3 +24,5 @@ endif
     Bundle 'Quramy/tsuquyomi'
 "   Bundle 'mattn/emmet-vim'
     Bundle 'jlanzarotta/bufexplorer'
+
+    UnBundle 'klen/python-mode'
